@@ -3,7 +3,7 @@
 ---
 
  
-## [**Phase 1: Computing Fundamentals**](obsidian://open?vault=my-notebook&file=Page%2FOIM%20Team's%2FComputer%20Fundamentals)
+## [**Phase 1: Computing Fundamentals**](obsidian://adv-uri?vault=my-notebook&filepath=Page%2FOIM%20Team's%2FComputer%20Fundamentals.md)
 
 Before learning OIM, it’s essential to have a good understanding of basic computing concepts. These are foundational knowledge that will help you understand how systems like OIM work at a technical level.
 
