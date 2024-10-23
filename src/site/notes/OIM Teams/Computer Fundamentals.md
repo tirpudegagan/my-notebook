@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/oim-teams/computer-fundamentals/","noteIcon":""}
 ---
 
-Hi [[Demo\|Demo]] Page
+Hi [[Notes/Demo\|Demo]] Page
