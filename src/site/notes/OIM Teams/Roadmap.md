@@ -1,11 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/roadmap/","noteIcon":""}
+{"dg-publish":true,"permalink":"/oim-teams/roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-25T10:06:29.731+05:30"}
 ---
 
 
 ### **Oracle Identity Manager (OIM) Learning Roadmap: From Computing Basics to OIM Development**
 
 This guide is structured to help individuals with no prior knowledge of Oracle Identity Manager (OIM) gradually build their expertise. The learning path is divided into four major phases, starting with basic computing concepts, advancing to Java programming, followed by OIM fundamentals, and finally diving into OIM development.
+
+---
+
+## **Phase 0: Why we need computers**
+
+Before learning Programming language, it’s essential to have a good understanding of basic computing concepts. These are foundational knowledge that will help you understand how systems like OIM work at a technical level.
+
+### **1.1 Basic Computer Concepts**
+
+1. **CPU (Central Processing Unit)**:
+
+    - The "brain" of the computer. It processes instructions and performs tasks.
+    - Types of CPUs: Single-core, multi-core.
+    - Clock Speed: Measured in GHz, indicates how fast the CPU can process instructions.
+
+2. **RAM (Random Access Memory)**:
+
+    - Temporary memory used by the computer to store data that is being actively used.
+    - Important for running applications and multitasking. More RAM allows more programs to run simultaneously.
+
+3. **ROM (Read-Only Memory)**:
+
+    - Permanent memory used to store firmware, or essential code that does not change, like the BIOS of a computer.
+
+4. **Storage Devices**:
+
+    - **Hard Disk Drive (HDD)**: Mechanical storage device with larger capacity but slower speed.
+    - **Solid-State Drive (SSD)**: Faster than HDD with no moving parts, used for rapid data retrieval.
+
+5. **File Types**:
+
+    - **.exe**: Executable files for launching programs.
+    - **.txt**: Plain text files.
+    - **.csv**: Comma-separated values, used for structured data like spreadsheets.
+    - **.jar**: Java Archive files, used for Java programs.
+    - **.xml/.json**: Data representation files, commonly used in APIs and configuration.
+
+6. **Networking Basics**:
+    - **IP Address**: Unique identifier for devices on a network.
+    - **Protocols**: HTTP, HTTPS, FTP, SMTP, etc.
+    - **Firewall**: A network security device that monitors incoming and outgoing network traffic.
 
 
 
