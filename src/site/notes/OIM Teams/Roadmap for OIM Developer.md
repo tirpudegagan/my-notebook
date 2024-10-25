@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/roadmap-for-oim-developer/","tags":["OIM","oimrroadmap","oimdeveloper","javadeveloper","java"],"noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:52:27.465+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/roadmap-for-oim-developer/","tags":["OIM","oimrroadmap","oimdeveloper","javadeveloper","java"],"noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:54:42.045+05:30"}
 ---
 
 
@@ -34,7 +34,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ---
 
-### **Phase 1: Computer Basics**
+### **Phase 1: [[OIM Teams/2) Computer Fundamentals \|Computer Fundamentals]]**
 
 1. **Understanding a Computer**
 
