@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:38:09.589+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:44:26.674+05:30"}
 ---
 
 
@@ -11,30 +11,30 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ### **Phase 0: [[OIM Teams/1) Why We’re Learning Programming\|Why We’re Learning Programming]]**
 
--   **What is Programming?**
+1.  **What is Programming?**
     -   Definition
     -   Real-world analogy
--   **Why Do We Need Programming?**
+2.  **Why Do We Need Programming?**
     -   Automation of tasks
     -   Solving real-world problems
     -   Creating software and applications
     -   Customization and control
--   **Why Use Programming Languages?**
+3.  **Why Use Programming Languages?**
     -   Translating human ideas into computer instructions
     -   Making development efficient and manageable
     -   Specificity and specialization of languages
--   **The Impact of Learning Programming**
+4.  **The Impact of Learning Programming**
     -   Demand in the job market
     -   Improving problem-solving skills
     -   Fostering creativity
--   **Where We Use Programming in Daily Life**
+5. **Where We Use Programming in Daily Life**
     -   Everyday technology
     -   Online services
     -   Smart devices
 
 ---
 
-### **Phase 1: [[OIM Teams/2) Computer Basics \|Computer Basics]]**
+### **Phase 1: Computer Basics**
 
 1. **Understanding a Computer**
 
