@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:01:35.852+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:10:10.629+05:30"}
 ---
 
 
@@ -38,30 +38,38 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 1. **Understanding a Computer**
 
-    - **What is a Computer?**: An electronic device that processes data to perform tasks.
-    - **Basic Components**:
-        - **Hardware**: Physical parts like CPU, RAM, storage.
-        - **Software**: Programs and applications that tell the hardware what to do.
+    - Definition: An electronic device that processes data to perform tasks.
+    - Components:
+        - **Hardware**: Physical parts (CPU, RAM, storage devices).
+        - **Software**: Programs that instruct hardware what to do.
 
 2. **Fundamental Computer Concepts**
 
-    - **Binary (0s and 1s)**: The language computers use to store data.
-    - **Processor (CPU)**: The brain of the computer, where instructions are executed.
+    - **Binary (0s and 1s)**: The basic language of computers.
+    - **Processor (CPU)**: The computer's brain that executes instructions.
     - **Memory**:
-        - **RAM (Random Access Memory)**: Temporary memory for currently active data.
+        - **RAM (Random Access Memory)**: Temporary memory for active data.
         - **ROM (Read-Only Memory)**: Permanent storage for essential startup information.
-    - **Storage Basics**:
-        - **Files**: A collection of data or information.
-        - **File Extensions**: Identifiers at the end of filenames (.txt, .jpg) to indicate file type.
 
-3. **Software Types**
+3. **Storage Basics**
 
-    - **System Software**: Manages hardware and resources (e.g., operating systems like Windows, macOS).
+    - **Files**: Collections of data (documents, images, etc.).
+    - **File Extensions**: Suffixes that indicate file types (e.g., .txt, .jpg).
+
+4. **`.exe` Files**
+
+    - Definition: Executable files that run programs on Windows.
+    - Function: When opened, they load and execute instructions in RAM.
+    - Security Note: Be cautious with `.exe` files from unknown sources.
+
+5. **Software Types**
+
+    - **System Software**: Manages hardware and resources (e.g., operating systems).
     - **Application Software**: Programs for specific tasks (e.g., word processors, games).
 
-4. **Programs vs. Processes**
+6. **Programs vs. Processes**
 
-    - **Program**: A set of instructions stored on a disk.
+    - **Program**: A set of instructions stored on disk (e.g., an `.exe` file).
     - **Process**: A program actively running in memory.
 
 ---

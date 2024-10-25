@@ -1,102 +1,169 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/2-computer-basics/","noteIcon":"","created":"2024-10-24T00:35:21.827+05:30","updated":"2024-10-26T04:04:40.065+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/2-computer-basics/","noteIcon":"","created":"2024-10-24T00:35:21.827+05:30","updated":"2024-10-26T04:15:14.740+05:30"}
 ---
 
 
 ---
 
-### **Phase 1: Computer Basics**
+### 1. Understanding a Computer
 
-#### **Understanding a Computer**
+#### Definition
 
--   **What is a Computer?**
-    -   **Definition**: A computer is an electronic machine that receives, processes, and stores data. You can think of it as a powerful tool that helps with all sorts of tasks by following instructions.
-    -   **Purpose**: Computers do things quickly and accurately, from simple calculations to complex problem-solving. This is why they’re so useful in nearly every field today, from science to entertainment.
--   **Basic Components of a Computer**:
+A **computer** is an electronic device designed to process data and perform tasks based on the instructions given to it.
 
-    -   **Hardware**:
-        -   Hardware refers to all the physical parts of the computer that you can touch. This includes:
-            -   **Monitor**: The screen that displays what you’re doing.
-            -   **Keyboard and Mouse**: Tools to input data and interact with the computer.
-            -   **CPU (Central Processing Unit)**: Often called the "brain" of the computer, the CPU processes the instructions given by programs.
-            -   **Memory**: The space where data is temporarily or permanently stored so that it can be used later.
-        -   Every part of the hardware has a specific job that helps the computer run smoothly.
-    -   **Software**:
-        -   Software is what gives instructions to the hardware, telling it what to do. Without software, a computer would just sit there without any way to interact with it.
-        -   There are different types of software, such as:
-            -   **System Software** (like Windows or macOS), which manages the hardware and lets other programs run.
-            -   **Application Software** (like games or word processors), which are programs for specific tasks.
-        -   Think of software as the director, guiding the hardware to perform tasks correctly.
+#### Components
 
----
+Computers consist of two main components:
 
-#### **Fundamental Computer Concepts**
+-   **Hardware**:
 
--   **Binary (0s and 1s)**:
+    -   **Physical parts** that you can touch and see.
+    -   **Examples**:
+        -   **CPU (Central Processing Unit)**: Often referred to as the "brain" of the computer. It performs calculations and executes instructions from software.
+            -   **Image Suggestion**: A diagram showing the CPU's location on a motherboard.
+        -   **RAM (Random Access Memory)**: Temporary memory used by the CPU to store data and instructions that are currently in use.
+            -   **Image Suggestion**: An image of RAM sticks, typically long and thin with chips.
+        -   **Storage Devices**: Used to permanently store data.
+            -   **Examples**:
+                -   **Hard Disk Drives (HDD)**: Traditional storage devices that use spinning disks.
+                    -   **Image Suggestion**: A photo showing the internal components of an HDD.
+                -   **Solid State Drives (SSD)**: Faster storage devices that use flash memory.
+                    -   **Image Suggestion**: A photo of an SSD, often a small rectangular box.
 
-    -   **Definition**: Binary is the language that all computers use to communicate and store data. It consists of only two symbols: 0 and 1. This is because, at the most basic level, computers work with electronic signals, which can be either "on" (1) or "off" (0).
-    -   **Why Binary?** Computers work with electricity, which can be turned on and off quickly. Using only two states, on and off, is reliable and simple for computers to process.
-    -   **How Binary Works**: Imagine you have a series of switches where each switch can be either on or off. Each combination of on and off represents a unique piece of information. When we see 0101, for example, the computer understands it as a small piece of data that could mean a letter, a number, or even part of an image, depending on how it's used.
-
--   **Processor (CPU)**:
-
-    -   **Definition**: The CPU, or Central Processing Unit, is the part of the computer that executes instructions. It’s like the brain of the computer, handling millions of calculations per second to run programs.
-    -   **Role**: The CPU reads instructions from software, decodes them into actions, and carries out those actions quickly. For example, when you open a program, the CPU processes the instructions needed to display the program on your screen.
-    -   **Cores and Speed**: Modern CPUs have multiple cores, or mini-brains, that allow them to handle many tasks at once, making computers faster and more efficient.
-
--   **Memory**:
-
-    -   Memory is where the computer stores data temporarily or permanently.
-
-        -   **RAM (Random Access Memory)**:
-
-            -   RAM is the computer's short-term memory. It stores data temporarily, allowing the computer to access it quickly while it’s needed.
-            -   For example, when you’re editing a document, the data is stored in RAM so you can make changes quickly. But once you turn off the computer, RAM is cleared, and anything not saved is lost.
-
-        -   **ROM (Read-Only Memory)**:
-            -   ROM is the computer's long-term memory, storing data that the computer needs to start up. This memory stays the same and can’t be changed easily.
-            -   When you turn on your computer, the instructions in ROM tell it how to boot up and start the operating system.
-
--   **Storage Basics**:
-
-    -   **Files**:
-
-        -   A file is a collection of data stored in a way that makes it easy to access. Files can be anything from a document to a photo, song, or video.
-        -   Just like physical files in a filing cabinet, digital files keep information organized for later use.
-
-    -   **File Extensions**:
-        -   File extensions are a way of labeling files so the computer knows how to open them. For example, a `.txt` extension tells the computer it’s a text file, and a `.jpg` extension tells the computer it’s an image.
-        -   This helps the computer and user know what kind of content is in a file and what program to use to open it.
+-   **Software**:
+    -   **Programs** that instruct the hardware on what tasks to perform.
+    -   **Examples**:
+        -   **Operating Systems (OS)**: Windows, macOS, and Linux are popular examples.
+            -   **Image Suggestion**: A screenshot of a Windows desktop interface.
+        -   **Application Software**: Programs designed for specific tasks.
+            -   **Examples**: Microsoft Word, Google Chrome, Adobe Photoshop.
+            -   **Image Suggestion**: Icons of popular applications.
 
 ---
 
-#### **Software Types**
+### 2. Fundamental Computer Concepts
 
--   **System Software**:
+#### Binary (0s and 1s)
 
-    -   This is software that helps the computer run and manages its resources.
-    -   The most common type of system software is the **Operating System (OS)**. The OS acts as a bridge between the computer hardware and the programs you use. It helps manage files, run applications, and handle the hardware.
-    -   Examples include **Windows**, **macOS**, and **Linux**. The OS is always running in the background, making sure everything works smoothly.
+Computers use the **binary number system**, which consists of two digits: 0 and 1.
 
--   **Application Software**:
-    -   Application software includes all the programs designed to help users complete tasks. Think of these as the tools in your computer’s toolbox.
-    -   Examples include:
-        -   **Word Processors**: Like Microsoft Word, for typing documents.
-        -   **Browsers**: Like Google Chrome or Firefox, for surfing the internet.
-        -   **Games**: Any program meant for entertainment is also application software.
-    -   Application software relies on system software to work, as it needs the OS to access computer resources like memory and storage.
+-   **Example**:
+    -   The letter "A" in ASCII is represented in binary as `01000001`.
+-   **Image Suggestion**: A chart showing binary representations of letters or numbers.
+
+#### Processor (CPU)
+
+The **CPU** executes instructions from software by performing arithmetic and logic operations.
+
+-   **Example**:
+    -   If a program asks the CPU to add two numbers (e.g., 2 + 3), the CPU processes this request and returns the result (5).
+-   **Image Suggestion**: An infographic showing how a CPU processes data.
+
+#### Memory
+
+-   **RAM (Random Access Memory)**:
+    -   Temporary memory that stores active data.
+    -   **Example**: When you open a web browser, the data for all open tabs is stored in RAM until you close them or shut down the computer.
+-   **ROM (Read-Only Memory)**:
+    -   Permanent memory that contains essential startup instructions.
+    -   **Example**: The BIOS (Basic Input/Output System) is stored in ROM, which helps boot the computer.
+-   **Image Suggestion**: A diagram explaining the difference between RAM and ROM.
 
 ---
 
-#### **Programs vs. Processes**
+### 3. Storage Basics
 
--   **Program**:
+#### Files
 
-    -   A program is a set of instructions saved on your computer’s storage. It’s like a recipe that’s written down, waiting for someone to follow it. Programs can be inactive or "at rest" on the computer’s hard drive, and they won’t do anything until you open them.
-    -   Examples include games you’ve installed or a photo-editing app. They are programs when they are stored on your computer.
+A **file** is a collection of data stored on a computer.
 
--   **Process**:
-    -   A process is what a program becomes when it’s actively running in the computer’s memory (RAM). When you open a program, it turns into a process and starts using the CPU and RAM.
-    -   For example, when you open your web browser, it becomes an active process, which means it’s taking up some of the CPU’s attention and using part of the RAM. Once you close it, the process ends, freeing up resources for other tasks.
+-   **Examples**:
+    -   **Text Document**: `report.txt`
+    -   **Image File**: `photo.jpg`
+-   **Image Suggestion**: A screenshot of a file directory showing different types of files.
+
+#### File Extensions
+
+A **file extension** indicates the type of file.
+
+-   **Examples**:
+    -   `.txt`: Plain text file.
+    -   `.jpg`: JPEG image file.
+    -   `.exe`: Executable file that runs a program.
+-   **Image Suggestion**: An infographic illustrating common file extensions with icons.
+
+---
+
+### 4. `.exe` Files
+
+#### Definition
+
+An **`.exe` file** is a specific type of executable file used on Windows.
+
+#### Function
+
+When you double-click an `.exe` file, it loads the necessary instructions into **RAM** and begins running as a **process**.
+
+-   **Example**:
+    -   Opening `notepad.exe` launches the Notepad application, allowing you to write text.
+-   **Image Suggestion**: A screenshot showing a right-click on an `.exe` file in a Windows Explorer window.
+
+#### Security Note
+
+-   Be cautious with `.exe` files from unknown sources, as they can contain malware or viruses.
+
+---
+
+### 5. Software Types
+
+#### System Software
+
+-   **System software** manages hardware and provides a platform for running application software.
+
+-   **Examples**: Windows, macOS, Linux.
+-   **Image Suggestion**: An image of different operating systems' logos.
+
+#### Application Software
+
+-   **Application software** is designed for specific tasks.
+
+-   **Examples**:
+    -   Word processors (e.g., Microsoft Word).
+    -   Web browsers (e.g., Google Chrome).
+-   **Image Suggestion**: A collage of various application icons.
+
+---
+
+### 6. Programs vs. Processes
+
+#### Program
+
+A **program** is a collection of instructions stored on disk (e.g., in an `.exe` file).
+
+-   **Example**: Microsoft Word is a program that you can open and run.
+
+#### Process
+
+A **process** is what happens when a program is actively running in memory.
+
+-   **Example**: When you open Microsoft Word, the OS creates a process for it, allowing you to edit documents.
+-   **Image Suggestion**: A diagram illustrating the difference between a program (on disk) and a process (in memory).
+
+---
+
+### Suggested Images Overview
+
+1. **CPU on Motherboard**
+2. **RAM Sticks**
+3. **HDD and SSD**
+4. **Windows Desktop Interface**
+5. **Binary Chart**
+6. **RAM vs. ROM Diagram**
+7. **File Directory Screenshot**
+8. **Common File Extensions Infographic**
+9. **Right-Clicking an `.exe` File**
+10. **Operating System Logos**
+11. **Application Software Icons Collage**
+12. **Program vs. Process Diagram**
 
 ---
