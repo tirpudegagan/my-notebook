@@ -311,8 +311,8 @@ ul.task-list {
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
-    // width: 250px;
-    width: fit-content;
+    width: 250px;
+   // width: fit-content;
 	
     h1 {
         font-size: 32px !important;
