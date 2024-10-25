@@ -34,7 +34,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ---
 
-### **Phase 1: [[OIM Teams/2) Computer Fundamentals .md\|Computer Fundamentals]]**
+### **Phase 1: [[OIM Teams/2) Computer Fundamentals \|Computer Fundamentals]]**
 
 1. **Understanding a Computer**
 
