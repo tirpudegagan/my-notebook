@@ -9,4 +9,4 @@ this purpose
 
 ![[8043.jpg
 
-![Pasted image 20241025100839.png](/img/user/Pasted%20image%2020241025100839.png)
+![[Pasted image 20241025100839.png\|Pasted image 20241025100839.png]]
