@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:10:10.629+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:38:09.589+05:30"}
 ---
 
 
@@ -93,7 +93,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ---
 
-## **[[OIM Teams/3) Java Programming\|Phase 3: Java Programming (Basic to Advanced)]]**
+## **[[OIM Teams/3) Java Programming\|Phase 2: Java Programming (Basic to Advanced)]]**
 
 OIM is built on Java, so understanding Java concepts is crucial for developing and customizing OIM. Below is a structured path to learn Java, starting from basics and advancing to the level required for OIM development.
 
@@ -160,7 +160,7 @@ OIM is built on Java, so understanding Java concepts is crucial for developing a
 
 ---
 
-## **[[OIM Teams/4) OIM Fundamentals\|Phase 4: OIM Fundamentals]]**
+## **[[OIM Teams/4) OIM Fundamentals\|Phase 3: OIM Fundamentals]]**
 
 Once you have a good grasp of Java, you can move on to learning Oracle Identity Manager basics.
 
@@ -204,7 +204,7 @@ Once you have a good grasp of Java, you can move on to learning Oracle Identity 
 
 ---
 
-## **[[OIM Teams/5) OIM Development\|Phase 5: OIM Development]]**
+## **[[OIM Teams/5) OIM Development\|Phase 4: OIM Development]]**
 
 With Java knowledge and a good understanding of OIM concepts, you can now move on to OIM development. This phase focuses on customization, extending OIM functionalities, and developing custom connectors.
 
