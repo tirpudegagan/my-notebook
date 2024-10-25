@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T03:59:37.562+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:01:35.852+05:30"}
 ---
 
 
@@ -34,7 +34,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ---
 
-### **Phase 1: Computer Basics
+### **Phase 1: [[OIM Teams/2) Computer Basics \|Computer Basics]]**
 
 1. **Understanding a Computer**
 
