@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T03:53:23.474+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/0-roadmap/","noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T03:59:37.562+05:30"}
 ---
 
 
@@ -9,7 +9,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
 
 ---
 
-### **Phase 0: Why We’re Learning Programming**
+### **Phase 0: [[OIM Teams/1) Why We’re Learning Programming\|Why We’re Learning Programming]]**
 
 -   **What is Programming?**
     -   Definition
