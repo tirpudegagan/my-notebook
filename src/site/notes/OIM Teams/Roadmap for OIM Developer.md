@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/roadmap-for-oim-developer/","tags":["OIM","oimrroadmap","oimdeveloper","javadeveloper","java"],"noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T04:54:42.045+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/roadmap-for-oim-developer/","tags":["OIM","oimrroadmap","oimdeveloper","javadeveloper","java"],"noteIcon":"","created":"2024-10-24T00:35:05.161+05:30","updated":"2024-10-26T05:22:09.741+05:30"}
 ---
 
 
@@ -27,7 +27,7 @@ This guide is structured to help individuals with no prior knowledge of Oracle I
     -   Demand in the job market
     -   Improving problem-solving skills
     -   Fostering creativity
-5. **Where We Use Programming in Daily Life**
+5.  **Where We Use Programming in Daily Life**
     -   Everyday technology
     -   Online services
     -   Smart devices
