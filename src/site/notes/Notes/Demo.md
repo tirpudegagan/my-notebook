@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/demo/","noteIcon":"","created":"2024-10-25T10:08:39.303+05:30","updated":"2024-10-26T06:04:41.890+05:30"}
+{"dg-publish":true,"permalink":"/notes/demo/","noteIcon":"","created":"2024-10-25T10:08:39.303+05:30","updated":"2024-10-26T06:05:14.270+05:30"}
 ---
 
 this purpose 
+
+Hi guys  this is demo page.
 
 ![[Drawing 2024-10-24 17.25.39.excalidraw\|Drawing 2024-10-24 17.25.39.excalidraw]]
 
