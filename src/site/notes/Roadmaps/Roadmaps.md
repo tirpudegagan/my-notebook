@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/roadmaps/roadmaps/","tags":["roadmap"],"noteIcon":"","created":"2024-10-26T05:24:44.372+05:30","updated":"2024-10-26T05:24:44.372+05:30"}
+{"dg-publish":true,"permalink":"/roadmaps/roadmaps/","tags":["roadmap"],"noteIcon":"","created":"2024-10-26T06:49:46.566+05:30","updated":"2024-10-26T07:15:12.953+05:30"}
 ---
 
 
 [[OIM Teams/Roadmap for OIM Developer\|Roadmap for OIM Developer]]
+
+Hi guys what is up?
