@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tips-and-tricks/create-the-format-alex-smith-and-bella-jones-in-excel/","noteIcon":"","created":"2024-11-23T04:16:20.562+05:30","updated":"2024-11-23T04:18:00.970+05:30"}
+{"dg-publish":true,"permalink":"/tips-and-tricks/create-the-format-alex-smith-and-bella-jones-in-excel/","noteIcon":"","created":"2024-11-23T04:16:20.562+05:30","updated":"2024-11-23T04:29:45.280+05:30"}
 ---
 
-### **Method 1: Using a Formula**
+### **Method 1: Using a Formula**  #Excel
+
 
 1. **Enter Your Data:**
     
