@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oim-teams/1-why-we-re-learning-programming/","noteIcon":"","created":"2024-10-26T03:59:10.740+05:30","updated":"2024-10-26T03:59:10.740+05:30"}
+{"dg-publish":true,"permalink":"/oim-teams/1-why-we-re-learning-programming/","noteIcon":"","created":"2024-10-26T03:54:16.380+05:30","updated":"2024-10-26T03:59:10.741+05:30"}
 ---
 
 
