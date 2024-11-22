@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips-and-tricks/how-can-i-format-names-in-notepad-as-alex-smith-and-bella-jones/","tags":["Excel","notepad"],"noteIcon":"","created":"2024-11-23T04:36:22.890+05:30","updated":"2024-11-23T04:52:49.864+05:30"}
+{"dg-publish":true,"permalink":"/tips-and-tricks/how-can-i-format-names-in-notepad-as-alex-smith-and-bella-jones/","tags":["Excel","notepad"],"noteIcon":"","created":"2024-11-23T04:36:22.890+05:30","updated":"2024-11-23T04:53:52.656+05:30"}
 ---
 
 #### **A: Follow these steps:** #notepad 
@@ -84,7 +84,7 @@
 
 	![Pasted image 20241123044137.png](/img/user/Assets/img/Pasted%20image%2020241123044137.png)
 1. Drag the formula down to apply it to all rows.
-	1 ![Pasted image 20241123044214.png](/img/user/Assets/img/Pasted%20image%2020241123044214.png)
+	![Pasted image 20241123044214.png](/img/user/Assets/img/Pasted%20image%2020241123044214.png)
 	 ![Pasted image 20241123044315.png](/img/user/Assets/img/Pasted%20image%2020241123044315.png)
 	 ![Pasted image 20241123044400.png](/img/user/Assets/img/Pasted%20image%2020241123044400.png)
 	![Pasted image 20241123044423.png](/img/user/Assets/img/Pasted%20image%2020241123044423.png)
