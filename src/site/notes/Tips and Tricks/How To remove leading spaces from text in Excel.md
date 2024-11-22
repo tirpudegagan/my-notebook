@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips-and-tricks/how-to-remove-leading-spaces-from-text-in-excel/","noteIcon":"","created":"2024-11-23T03:54:50.527+05:30","updated":"2024-11-23T04:11:37.387+05:30"}
+{"dg-publish":true,"permalink":"/tips-and-tricks/how-to-remove-leading-spaces-from-text-in-excel/","noteIcon":"","created":"2024-11-23T03:54:50.527+05:30","updated":"2024-11-23T05:07:57.027+05:30"}
 ---
 
 ### **Method 1: Using the TRIM Function**
@@ -68,7 +68,3 @@ This removes leading spaces from the selected cells.
     - **Find what:** Type a single space ( ).
     - **Replace with:** Leave it blank.
     - Click **Replace All**.
-
----
-
-These methods will efficiently clean your data in Excel! Let me know if you’d like further clarification.

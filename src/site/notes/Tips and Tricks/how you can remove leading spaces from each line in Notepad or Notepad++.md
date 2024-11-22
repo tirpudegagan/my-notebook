@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tips-and-tricks/how-you-can-remove-leading-spaces-from-each-line-in-notepad-or-notepad/","noteIcon":"","created":"2024-11-23T03:24:06.442+05:30","updated":"2024-11-23T03:51:20.698+05:30"}
+{"dg-publish":true,"permalink":"/tips-and-tricks/how-you-can-remove-leading-spaces-from-each-line-in-notepad-or-notepad/","noteIcon":"","created":"2024-11-23T03:24:06.442+05:30","updated":"2024-11-23T05:07:49.803+05:30"}
 ---
 
 ### **In Basic Notepad:**
@@ -48,5 +48,3 @@ If you don’t want to use Regular Expressions:
 
 
 ![Pasted image 20241123035007.png](/img/user/Assets/img/Pasted%20image%2020241123035007.png)
-
-These steps will remove all the spaces before each line efficiently! Let me know if you need further help.
