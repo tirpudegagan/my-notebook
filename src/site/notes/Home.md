@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T05:45:20.145+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T05:53:16.584+05:30"}
 ---
 
+![photo_2024-11-23_05-12-38.jpg|300](/img/user/Assets/profile/photo_2024-11-23_05-12-38.jpg)
 
-
-![Demo Profile Image](https://via.placeholder.com/150)  
-_(Replace this with your profile image)_
 
 ## **🚀 Introduction**
 
