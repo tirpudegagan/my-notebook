@@ -1,24 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T05:36:31.399+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T05:39:48.282+05:30"}
 ---
 
 
 ![photo_2024-11-23_05-12-38.jpg](/img/user/Assets/profile/photo_2024-11-23_05-12-38.jpg)
-## **# Introduction**  
+## **Introduction**  
 *"Hi, I’m Gagan Tirpude, a passionate Java IDM Engineer and OIM Developer based in India. My expertise lies in identity management, automation, and full-stack development."*  
 
 With a focus on **security**, **efficiency**, and **scalability**, I thrive on solving challenges and creating innovative solutions that drive business growth. My work integrates technology and collaboration to ensure seamless project execution.
 
 ---
 
-## **# Who I Am**  
+## **Who I Am**  
 *"I specialize in building custom solutions for identity management using Oracle Identity Manager (OIM). From secure login pages to automated workflows, I’m dedicated to making processes efficient and user-friendly."*  
 
 With a hands-on approach and a strong technical foundation, I’ve honed my skills to deliver impactful results. My ability to adapt quickly and my commitment to excellence set me apart as a developer focused on quality and innovation.
 
 ---
 
-## **# My Technical Skillset**  
+## **My Technical Skillset**  
 
 ### **Programming Expertise**  
 *"I bring expertise in modern programming languages and frameworks to develop scalable, efficient applications."*  
@@ -56,7 +56,7 @@ With a hands-on approach and a strong technical foundation, I’ve honed my skil
 
 ---
 
-## **# Educational Background**  
+## **Educational Background**  
 *"My academic journey provided me with a solid foundation in computer science, enabling me to excel in technology-driven fields."*  
 
 - **B.Tech. in Computer Science and Engineering (CSE)**  
@@ -64,7 +64,7 @@ With a hands-on approach and a strong technical foundation, I’ve honed my skil
 
 ---
 
-## **# My Professional Experience**  
+## **My Professional Experience**  
 
 ### **OIM Developer – Softenger (2024 – Present)**  
 *"As an OIM Developer at Softenger, I’ve built secure and efficient systems to streamline identity management."*  
@@ -83,7 +83,7 @@ With a hands-on approach and a strong technical foundation, I’ve honed my skil
 
 ---
 
-## **# My Vision**  
+## **My Vision**  
 *"I aim to leverage technology to address real-world challenges while staying ahead in identity management and automation."*  
 My focus includes:  
 - **Driving Innovation**: Exploring new ways to improve security and automation.  
@@ -92,7 +92,7 @@ My focus includes:
 
 ---
 
-## **# Let’s Connect**  
+## **Let’s Connect**  
 *"I’m always excited to collaborate on innovative projects or discuss technology trends. Feel free to connect with me!"*  
 - **[GitHub](https://github.com/gagantirpude)**  
 - **[LinkedIn](https://linkedin.com/in/gagantirpude)**  
