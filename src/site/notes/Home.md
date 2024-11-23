@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T06:11:05.041+05:30"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"2024-10-23T19:09:43.716+05:30","updated":"2024-11-23T06:13:52.912+05:30"}
 ---
 
-<center>![photo_2024-11-23_05-12-38.jpg|200](/img/user/Assets/profile/photo_2024-11-23_05-12-38.jpg)</center>
+![photo_2024-11-23_05-12-38.jpg|200](/img/user/Assets/profile/photo_2024-11-23_05-12-38.jpg)
 
 Welcome! I am **<span style="background:#fff88f">Gagan Tirpude</span>**, a highly skilled **Java IDM Engineer** and **Oracle Identity Manager (OIM) Developer** from **India**. I specialize in building cutting-edge identity management systems and leveraging full-stack development techniques to deliver efficient, scalable, and secure solutions. My focus is on automating complex workflows and ensuring seamless user experience and access management.
 
